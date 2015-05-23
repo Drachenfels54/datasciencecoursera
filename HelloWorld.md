@@ -6,6 +6,6 @@
 #### 4th Next
 ##### 5th Next
 
-* An asterix is for italics *
-** Two asterix are for bold **
+*An asterix is for italics*
+**Two asterix are for bold**
 
