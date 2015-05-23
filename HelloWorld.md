@@ -19,4 +19,4 @@
 * Item 3
 * 
 
-[Doug's Home Page](www.dougjackson.com.au).
+[Doug's Home Page](http://www.dougjackson.com.au).
